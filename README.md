@@ -46,6 +46,16 @@ The full analysis can be found in the notebook:
 analysis.ipynb
 <img width="1007" height="451" alt="download" src="https://github.com/user-attachments/assets/11fef124-b615-4b62-9fe2-b3062ea57b4a" />
 
+## Results
+
+- Demand is consistently higher during weekdays compared to weekends  
+- Peak days require significantly more workforce to maintain service levels  
+- The moving average approach captures short-term demand trends effectively  
+- Workforce requirements vary significantly depending on demand and AHT  
+
+## Business Impact
+
+This analysis demonstrates how forecasting and workforce planning can support operational efficiency, reduce queue risk and improve service level performance.
 
 ## Notes
 
