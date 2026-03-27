@@ -39,6 +39,12 @@ Agent capacity assumes ~6 productive hours per day, adjusted by shrinkage.
 - SQL
 - Git
 
+## Analysis
+
+The full analysis can be found in the notebook:
+
+analysis.ipynb
+
 ## Notes
 
 This is a simplified model intended for demonstration purposes.
